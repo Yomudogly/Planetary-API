@@ -1,0 +1,13 @@
+.env
+.venv
+.vscode
+env
+database.database
+database.db
+planets.db
+diagram.png
+public/*
+dist/*
+package.json
+
+__pycache__/
